@@ -1,0 +1,8 @@
+const actionTypes = {
+    LOAD: 'SERIES | LOAD_SERIES',
+    LOAD_SUCCESS: 'SERIES | LOAD_SERIES SUCCESS',
+    LOAD_FAILURE: 'SERIES | LOAD_SERIES FAILURE',
+    LOAD_SEARCH:'SERIES | LOAD_SEARCH',
+  }
+  
+  export default actionTypes
